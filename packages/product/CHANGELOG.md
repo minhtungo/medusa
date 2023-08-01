@@ -1,5 +1,15 @@
 # @medusajs/product
 
+## 0.1.5
+
+### Patch Changes
+
+- [#4631](https://github.com/medusajs/medusa/pull/4631) [`4073b7313`](https://github.com/medusajs/medusa/commit/4073b73130c874dc7d2240726224a01b7b19b1a1) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(product): Move mikro orm utils to the utils package
+
+- Updated dependencies [[`4073b7313`](https://github.com/medusajs/medusa/commit/4073b73130c874dc7d2240726224a01b7b19b1a1)]:
+  - @medusajs/utils@1.9.5
+  - @medusajs/types@1.10.1
+
 ## 0.1.4
 
 ### Patch Changes
